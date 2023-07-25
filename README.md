@@ -1,7 +1,7 @@
 
 Code in **mobileAlgorithm.js**
 
-link test Javascript(if any): https://www.programiz.com/javascript/online-compiler/
+Link test Javascript(if any): https://www.programiz.com/javascript/online-compiler/
 
 ![image](https://github.com/lvthong312/hl-assignment_mobile/assets/94743138/85c8e90e-06e9-4163-a267-f2bbb6b2c5ca)
 
